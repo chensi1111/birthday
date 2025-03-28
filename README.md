@@ -1,5 +1,17 @@
-# Vue 3 + TypeScript + Vite
+# 簡介
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+使用Vue3搭配Three.js，建立3D模型，並透過偵測聲音大小來模擬吹蠟燭的動作。
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+# 技術
+
+- Vue3.js
+- Vite
+- RWD
+- TypeScript
+- Three.js
+- Blender
+
+# Demo
+
+https://chensi1111.github.io/birthday/demoName/demoGift
+(分別填入收禮人姓名及禮物)
