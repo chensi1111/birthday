@@ -13,5 +13,5 @@
 
 # Demo
 
-https://chensi1111.github.io/birthday/demoName/demoGift
+https://chensi1111.github.io/birthday/#/demoName/demoGift
 (分別填入收禮人姓名及禮物)
